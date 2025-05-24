@@ -1,3 +1,13 @@
 # OUMOULAY Rashid
 # Master SDIA
 # Sys_Dist TP03
+
+<h2 style="text-align:center">Partie 1</h2>
+
+<h4>&nbsp; Objectif :</h4>
+    &nbsp;Créer une application Web JEE basée sur Spring MVC, Thylemeaf et Spring Data JPA qui permet de gérer les patients. L'application doit permettre les fonctionnalités suivantes :
+Afficher les patients
+Faire la pagination
+Chercher les patients
+Supprimer un patient
+Faire des améliorations supplémentaires
