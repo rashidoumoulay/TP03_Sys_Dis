@@ -19,9 +19,19 @@
     <img src="screen/part1.1.png" alt="Afficher patient">
     
     <li>Faire la pagination</li>
+    <p>ici comme vous pouvez voir , quand j'ai click sur 2 il m'affiche la page correspondante : </p>
+    <img src="screen/part1.2.png" alt="Pagination">
     <li>Chercher les patients</li>
+    <p>ici quand j'ai fait une recherche sur patient "Nabil" il affiche le resultat correspondant : </p>
+    <img src="screen/part1.3.png" alt="Search">
     <li>Supprimer un patient</li>
+    <p>Pour faire une supprission, il faut d'abord notifier l'utilisateur : </p>
+    <img src="screen/part1.4.1.png" alt="Notification">
+    <p>Puis , validation de l'opération et redirect vers la même page : </p>
+    <img src="screen/part1.4.2.png" alt="Supp">
     <li>Faire des améliorations supplémentaires</li>
+    <p>Pour cette partie, on a ajouter des styles en utilisant bootstrap et bootstrap-icons : </p>
+    <img src="screen/part1.5.png" alt="amélioration">
 </ol>
     
 
