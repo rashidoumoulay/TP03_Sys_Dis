@@ -2,7 +2,7 @@
 # Master SDIA
 # Sys_Dist TP03
 
-<h2 style="text-align:center">Partie 1</h2>
+<center>  # Partie 1</center>
 
 <h4>&nbsp; Objectif :</h4>
     &nbsp;Créer une application Web JEE basée sur Spring MVC, Thylemeaf et Spring Data JPA qui permet de gérer les patients. 
