@@ -43,7 +43,7 @@
     <p>Pour save : </p>
     <img src="screen/part2.2.png" alt="save">
     => Résultat : <br>
-    &nbsp; *Remplissage du formulaire : <br>
+    &nbsp; * Remplissage du formulaire : <br>
     <img src="screen/res1.1.png" alt="save result">
     &nbsp; *Résultat après l'ajout : <br>
     <img src="screen/res1.2.png" alt="save result">
