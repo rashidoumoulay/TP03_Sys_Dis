@@ -17,7 +17,7 @@
 <ol>
     <li>Afficher les patients</li>
     <img src="screen/part1.1.png" alt="Afficher patient">
-    
+    >
     <li>Faire la pagination</li>
     <p>ici comme vous pouvez voir , quand j'ai click sur 2 il m'affiche la page correspondante : </p>
     <img src="screen/part1.2.png" alt="Pagination">
@@ -33,5 +33,29 @@
     <p>Pour cette partie, on a ajouter des styles en utilisant bootstrap et bootstrap-icons : </p>
     <img src="screen/part1.5.png" alt="amélioration">
 </ol>
-    
+
+
+<h2 style="text-align:center; color:red;">Partie 2</h2>
+<ol>
+    <li>Créer une page template : </li>
+    <img src="screen/part2.1.png" alt="template">
+    <li>Faire la validation des formulaires : </li>
+    <p>Pour save : </p>
+    <img src="screen/part2.2.png" alt="save">
+    => Résultat : <br>
+    &nbsp; *Remplissage du formulaire : <br>
+    <img src="screen/res1.1.png" alt="save result">
+    &nbsp; *Résultat après l'ajout : <br>
+    <img src="screen/res1.2.png" alt="save result">
+    <p>Pour edit : </p>
+    <img src="screen/part2.3.png" alt="edit">
+    => Résultat : <br>
+    &nbsp; * ici, on va modifier les infos de ce patient :
+    <img src="screen/res2.1.png" alt="edit result">
+    &nbsp; * Voici les nouveaux infos : <br>
+    <img src="screen/res2.2.png" alt="edit result">
+    &nbsp; * et voilà notre patient : <br>
+    <img src="screen/res2.3.png" alt="edit result">
+</ol>
+
 

@@ -1,5 +1,7 @@
 <!doctype html>
-<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+        layout:decorate="template1">
 
 <head>
     <meta charset="UTF-8">
@@ -11,6 +13,7 @@
     <title>Patients</title>
 </head>
 <body>
+<div layout:fragment="content1">
     <div class="p-3">
         <div class="card">
             <div class="card-header">
@@ -42,6 +45,12 @@
                                     <i class="bi bi-trash"></i>
                                 </a>
                             </td>
+                            <td>
+                                <a th:href="@{editPatient(id=${p.id} , page=${currentPage} , keyword=${keyword})}"
+                                   class="btn btn-success">
+                                    <i class="bi bi-pen"></i>
+                                </a>
+                            </td>
                         </tr>
                     </thead>
                 </table>
@@ -57,7 +66,7 @@
             </div>
         </div>
     </div>
-
+</div>
 
 
 </body>
